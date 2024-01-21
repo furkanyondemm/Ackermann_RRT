@@ -3,7 +3,7 @@
 
 """
 # Bilgi : Robotu hareket ettirir ve hedefe ulaşınca durdurur. Bunun için object_detection.py ve RRT.py dosyalarını kullanır.
-# Hazırlayan : Ş. Furkan YÖndem
+# Hazırlayan : Ş. Furkan Yöndem
 
 """
 
